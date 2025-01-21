@@ -1,0 +1,21 @@
+{
+  "ID": "1234567890",
+  "Name": "尹玉梅",
+  "CAC": 20,
+  "CTAI" : {
+      "item1" : {
+      "NoduleScore": 0.9,
+      "NoduleType": "磨玻璃",
+      "NoduleSize": 4,
+      "NoduleDensity":220,
+      "NoduleLocation": "左肺上叶"
+    },
+    "item2": {
+        "NoduleScore": 0.8,
+        "NoduleType": "混合型",
+        "NoduleSize": 4,
+        "NoduleDensity": 300,
+        "NoduleLocation": "左肺上叶"
+    }
+  }
+}
